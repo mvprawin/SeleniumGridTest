@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28172" started-at="2021-06-06T06:48:12Z" finished-at="2021-06-06T06:48:40Z">
+  <suite name="Suite" duration-ms="39090" started-at="2021-06-06T07:09:10Z" finished-at="2021-06-06T07:09:49Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="25336" started-at="2021-06-06T06:48:12Z" finished-at="2021-06-06T06:48:37Z">
+    <test name="Test1" duration-ms="32558" started-at="2021-06-06T07:09:10Z" finished-at="2021-06-06T07:09:42Z">
       <class name="com.grid.test.GridChromeDemo">
-        <test-method status="PASS" signature="chromeTestApp()[pri:0, instance:com.grid.test.GridChromeDemo@3ffb3598]" name="chromeTestApp" duration-ms="25311" started-at="2021-06-06T06:48:12Z" finished-at="2021-06-06T06:48:37Z">
+        <test-method status="PASS" signature="chromeTestApp()[pri:0, instance:com.grid.test.GridChromeDemo@747d1932]" name="chromeTestApp" duration-ms="32534" started-at="2021-06-06T07:09:10Z" finished-at="2021-06-06T07:09:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chromeTestApp -->
       </class> <!-- com.grid.test.GridChromeDemo -->
     </test> <!-- Test1 -->
-    <test name="Test3" duration-ms="28171" started-at="2021-06-06T06:48:12Z" finished-at="2021-06-06T06:48:40Z">
+    <test name="Test3" duration-ms="39090" started-at="2021-06-06T07:09:10Z" finished-at="2021-06-06T07:09:49Z">
       <class name="com.grid.test.GridFirefoxDemo">
-        <test-method status="PASS" signature="firefoxTestApp()[pri:0, instance:com.grid.test.GridFirefoxDemo@21c7208d]" name="firefoxTestApp" duration-ms="28152" started-at="2021-06-06T06:48:12Z" finished-at="2021-06-06T06:48:40Z">
+        <test-method status="PASS" signature="firefoxTestApp()[pri:0, instance:com.grid.test.GridFirefoxDemo@52cb4f50]" name="firefoxTestApp" duration-ms="39069" started-at="2021-06-06T07:09:10Z" finished-at="2021-06-06T07:09:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firefoxTestApp -->
