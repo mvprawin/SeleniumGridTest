@@ -19,7 +19,7 @@ public class GridFirefoxDemo {
 		
 		cap.setBrowserName(BrowserType.FIREFOX);	
 		
-		WebDriver driver = new RemoteWebDriver(new URL("http://localhost:49153/wd/hub"),cap);
+		WebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),cap);
 	
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("Selenium Grid docker");
